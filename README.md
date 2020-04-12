@@ -6,15 +6,15 @@ The nav bar is created by utilizing a code from getbootstrap. On the nav bar, th
 
 
 
+<h2>About Me</h2><br />
 
 
 
 
 
+<h2>Porfolio Page</h2><br />
 
 
 
-
-
-Contact Page
+<h2>Contact Page</h2><br />
 I was able to find a form format in Bootstrap. With this form, there is a section for name, email and a message. A submit button was included as well.
